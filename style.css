@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: black;
+	background-size: cover;
+}
+.all {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 2%;
+	height: 90%;
+	
+}
+
+.top {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.top div {
+	background-color: #55538C;
+	width: 30%;
+}
+.mid {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.mid div{
+	background-color: #55538C ;
+	width: 45%;
+
+}
+.bot {
+	width: 100%;
+
+}
+.bot div {
+	background-color: #55538C;
+	width: 100%;
+}
+
+div {
+ 	width: 100%px;
+}
